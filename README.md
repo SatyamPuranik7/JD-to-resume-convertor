@@ -50,9 +50,3 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ---
-
-## 📦 Deployment
-Deploy with 1-click to [Vercel](https://vercel.com):
-1. Import your GitHub repository to Vercel.
-2. Add `OPENROUTER_API_KEY` under **Project Settings > Environment Variables**.
-3. Deploy!
