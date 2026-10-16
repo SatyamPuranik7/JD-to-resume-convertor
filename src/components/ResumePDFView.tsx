@@ -271,7 +271,7 @@ export default function ResumePDFView({ resume, rawText }: ResumePDFViewProps) {
           )}
 
           {/* Education and Certification */}
-          {(data.education?.length > 0 || data.certifications?.length > 0) && (
+          {Boolean((data.education && data.education.length > 0) || (data.certifications && data.certifications.length > 0)) && (
             <section className="mb-4">
               <h2 className="text-xs font-bold uppercase tracking-widest text-slate-900 border-b border-slate-300 pb-0.5 mb-1.5">
                 Education & Certifications
