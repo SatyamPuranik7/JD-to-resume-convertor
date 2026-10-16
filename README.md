@@ -1,7 +1,9 @@
 # ResuMatch AI ⚡
 > Free AI-Powered ATS Resume Customizer & Job Description Matcher. Built for the #BuildInPublic 7 Quests Challenge.
 
-ResuMatch AI analyzes any candidate resume against a target job description, calculates a real-time ATS match score, highlights missing keywords, and rewrites bullet points using the Google XYZ formula for 1-click PDF export.
+Live demo: https://jd-to-resume-convertor.vercel.app/
+
+ResuMatch AI analyzes any candidate resume against a target job description, calculates a real-time ATS match score, highlights missing keywords, and rewrites bullet points using the Google XYZ for[...]
 
 ---
 
